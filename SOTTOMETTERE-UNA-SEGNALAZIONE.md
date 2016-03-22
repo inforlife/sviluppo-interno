@@ -1,4 +1,4 @@
-#### Premete nell'elenco sottostante il nome dell'applicazione per la quale si vuole sottomettere una segnalazione
+#### Premere nell'elenco sottostante il nome dell'applicazione per la quale si vuole sottomettere una segnalazione
 
 - [Expiration Checker](https://github.com/acsinfo/exp_checker/issues/new)
 - [Gatekeeper Web Application](https://github.com/acsinfo/gatekeeper/issues/new)
