@@ -1,4 +1,4 @@
-#### Premere nell'elenco sottostante il nome dell'applicazione per la quale si vuole verificare quali sono le segnazioni aperte (note e non acnora risolte)
+#### Premere nell'elenco sottostante il nome dell'applicazione per la quale si vuole verificare quali sono le segnalazioni aperte (note e non ancora risolte)
 
 - [Expiration Checker](https://github.com/acsinfo/exp_checker/issues)
 - [Gatekeeper Web Application](https://github.com/acsinfo/gatekeeper/issues)
