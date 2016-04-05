@@ -8,4 +8,4 @@
 - [QLEVER Gateway](https://github.com/acsinfo/qlever-gateway/issues)
 - [Reaction](https://github.com/acsinfo/reaction/issues)
 - [Solution](https://github.com/acsinfo/solution/issues)
-- [V750 Gateway](https://github.com/acsinfo/v750-gateway/issues)
+- [V570 Gateway](https://github.com/acsinfo/v570-gateway/issues)
