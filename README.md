@@ -8,4 +8,4 @@
 - QLEVER Gateway
 - Reaction
 - Solution
-- V750 Gateway
+- V570 Gateway
