@@ -1,11 +1,10 @@
 # Lista delle applicazioni sviluppate internamente
 
 - Expiration Checker
-- Gatekeeper Web Application
-- PNBADGE Web
-- PNMAS Config
+- Gatekeeper
 - PNMAS Gateway
 - QLEVER Gateway
 - Reaction
 - Solution
+- TrainingHub
 - V570 Gateway
