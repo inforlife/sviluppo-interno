@@ -2,6 +2,7 @@
 
 - cGMP Expiration Checker
 - cGMP XML Exporter
+- DM4SEA
 - Gatekeeper
 - PNMAS Gateway
 - QLEVER Gateway
